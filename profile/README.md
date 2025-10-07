@@ -25,7 +25,7 @@ Built with ❤️ for the global Flutter community.
 We're not just a dev shop. We're your **product partner** — committed to solving business problems with reliable, scalable, and beautiful tech.  
 Trusted by 50+ global clients.  
 
-💼 [Hire Our Team](https://solguruz.com/hire-flutter-developers/)
+💼 [Hire Our Team](https://solguruz.com/hire-dedicated-developers/)
 
 📩 [Need help with a project? Reach out to us👋](https://solguruz.com/contact)
 
