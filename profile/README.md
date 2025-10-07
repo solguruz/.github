@@ -1,12 +1,33 @@
-## Hi there 👋
+# Welcome to SolGuruz's Hub
 
-<!--
+We're a [software consultancy agency](https://solguruz.com/) with a deep focus on **Mobile**, **Web**, **Cloud**, **AI/ML**, and **full-stack engineering** — building scalable web and mobile apps, as well as reusable tools, for teams worldwide.
 
-**Here are some ideas to get you started:**
+This space is where we share **production-tested packages, utility functions, and starter kits** from our real-world development work.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Featured Open Source Project
+
+### [Skelter](https://github.com/solguruz/skelter) – A Flutter Boilerplate to Move Fast with Confidence  
+A production-grade Flutter starter kit designed for serious app developers.
+
+✔️ Clean folder architecture  
+✔️ Firebase setup & auth  
+✔️ State management  
+✔️ Utility classes  
+✔️ UI components  
+✔️ Launch-ready design system  
+
+Built with ❤️ for the global Flutter community.
+
+🎁 **100% Open Source**  
+📦 **Clone-ready** and maintained by the SolGuruz team.
+
+## 💬 Let’s Connect
+We're not just a dev shop. We're your **product partner** — committed to solving business problems with reliable, scalable, and beautiful tech.  
+Trusted by 50+ global clients.  
+
+💼 [Hire Our Team](https://solguruz.com/hire-flutter-developers/)
+
+📩 [Need help with a project? Reach out to us👋](https://solguruz.com/contact)
+
+> “We don't just build apps. We build engineering foundations others can build on.”  
+> — The SolGuruz Engineering Team
